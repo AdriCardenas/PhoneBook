@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="label_persona">Nombre</string>
+    <string name="label_telephone">Telefono</string>
+    <string name="label_buscar">Buscar</string>
+    <string name="insert_title">Insertar</string>
+    <string name="request_permission">Activa los permisos para acceder a las llamadas</string>
+    <string name="creation_contact_successful">Contacto creado correctamente</string>
+    <string name="no_contacs">No hay contactos</string>
+    <string name="incorrect_fields">Campos incorrectos</string>
+    <string name="warning">Aviso</string>
+    <string name="warning_question">¿Estás seguro que deseas guardar este contacto?</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#111133</item>
+        <item name="colorPrimaryDark">#222255</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+
+    </style>
+    <style name="Counter" parent="TextAppearance.Design.Counter">
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="CounterOverFlow" parent="TextAppearance.Design.Counter.Overflow">
+        <item name="android:textColor">#ff7043</item>
+    </style>
+</resources>

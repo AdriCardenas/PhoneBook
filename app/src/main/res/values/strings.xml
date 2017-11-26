@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="label_telephone">Phone number</string>
+    <string name="label_persona">Name</string>
+    <string name="label_buscar">Search</string>
+    <string name="insert_title">Insert</string>
+    <string name="request_permission">Activate the permissions to access calls</string>
+    <string name="creation_contact_successful">Contact succesfully created</string>
+    <string name="no_contacs">There are no contacs</string>
+    <string name="incorrect_fields">Fields incorrects</string>
+    <string name="warning">Warning</string>
+    <string name="warning_question">Are you sure you want to save this contact?</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
